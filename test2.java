@@ -18,6 +18,7 @@ System.out.println("test 2 pass");
 }
 else{
     System.out.println("test 3 pass");
+    input.close();
 }
     }
 }
